@@ -1,0 +1,51 @@
+.contenedor{
+    background-color: red;
+}
+.nav{
+    background-color: aqua;
+    min-width: 100%;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 50px;
+}
+.nav input, .search{
+    border-radius: 10px;
+    width: 500px;
+    min-height: 30px;
+    text-align: center;
+}
+.areavideo{
+    background-color: blue;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#descrip{
+    width: 85%;
+    min-height: 180px;
+    border-radius: 15px;
+}
+.video{
+    background-color: pink;
+    max-width: 50%;
+    min-height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.right-section{
+    background-color: blueviolet;
+    min-width: 50%;
+    min-height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
