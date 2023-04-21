@@ -49,3 +49,27 @@
     justify-content: center;
     align-items: center;
 }
+.num1{
+    display: none;
+}
+.num2{
+    display: flex;
+}
+.num3{
+    display: none;
+}
+.num4{
+    display: none;
+}
+.num5{
+    display: none;
+}
+.num6{
+    display: none;
+}
+.num7{
+    display: none;
+}
+.num8{
+    display: none;
+}
